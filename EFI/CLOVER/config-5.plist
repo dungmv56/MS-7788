@@ -71,6 +71,27 @@
 			<key>ReuseFFFF</key>
 			<false/>
 		</dict>
+		<key>DropTables</key>
+		<array>
+			<dict>
+				<key>#Length</key>
+				<integer>720</integer>
+				<key>Signature</key>
+				<string>SSDT</string>
+				<key>TableId</key>
+				<string>Cpu0Ist</string>
+			</dict>
+			<dict>
+				<key>Signature</key>
+				<string>SSDT</string>
+				<key>TableId</key>
+				<string>CpuPm</string>
+			</dict>
+			<dict>
+				<key>Signature</key>
+				<string>DMAR</string>
+			</dict>
+		</array>
 		<key>HaltEnabler</key>
 		<true/>
 		<key>SSDT</key>
@@ -99,7 +120,7 @@
 		<key>#Timeout</key>
 		<integer>3</integer>
 		<key>Arguments</key>
-		<string>-v dart=0 darkwake=0</string>
+		<string>-v dart=0 darkwake=0 -f</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultLoader</key>
@@ -110,8 +131,6 @@
 		<string>PBR</string>
 		<key>Secure</key>
 		<false/>
-		<key>Timeout</key>
-		<integer>10</integer>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
@@ -568,7 +587,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02201108GUFF4M1F</string>
+		<string>C02232401QXDNJJJC</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -596,7 +615,7 @@
 		<key>ProductName</key>
 		<string>iMac13,2</string>
 		<key>SerialNumber</key>
-		<string>C02H228HDNCW</string>
+		<string>C02J61FCDNCW</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
