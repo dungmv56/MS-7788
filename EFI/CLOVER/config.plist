@@ -99,7 +99,7 @@
 		<key>#Timeout</key>
 		<integer>3</integer>
 		<key>Arguments</key>
-		<string>-v dart=0 darkwake=0</string>
+		<string>dart=0 darkwake=0</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultLoader</key>
@@ -607,8 +607,6 @@
 		<key>InjectKexts</key>
 		<string>Yes</string>
 		<key>InjectSystemID</key>
-		<true/>
-		<key>NoCaches</key>
 		<true/>
 	</dict>
 </dict>
