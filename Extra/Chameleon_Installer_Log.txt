@@ -1,0 +1,104 @@
+==============================================================================
+SYSTEM INFO:
+ProductName:	Mac OS X
+ProductVersion:	10.12.3
+BuildVersion:	16D32
+==============================================================================
+Pre-Install Script
+------------------------------------------------------------------------------
+Creating /Volumes/X/EXTRAROOTDIR symlink targeting /Volumes/BOOTRAMDISK
+/dev/disk0 (internal, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:      GUID_partition_scheme                        *250.1 GB   disk0
+   1:                        EFI EFI                     209.7 MB   disk0s1
+   2:                  Apple_HFS X                       62.4 GB    disk0s2
+   3:                  Apple_HFS Untitled 2              62.4 GB    disk0s3
+   4:           Linux Filesystem                         62.4 GB    disk0s4
+   5:       Microsoft Basic Data DATA                    62.0 GB    disk0s5
+
+/dev/disk1 (external, physical):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:     FDisk_partition_scheme                        *7.8 GB     disk1
+   1:             Windows_FAT_32 HZ                      209.7 MB   disk1s1
+   2:                  Apple_HFS Hackintosh Sierra Zone  7.5 GB     disk1s2
+
+/dev/disk2 (disk image):
+   #:                       TYPE NAME                    SIZE       IDENTIFIER
+   0:                            BOOTRAMDISK            +209.7 MB   disk2
+
+------------------------------------------------------------------------------
+END - Pre-Install Script
+==============================================================================
+Main ESP Post-Install Script
+Chameleon installer log - Thu Dec  7 00:02:04 ICT 2017
+no boot session
+
+==============================================================================
+SEARCHING ESP PARTITION:
+GPT partition Scheme detected..
+EFI partition found is /dev/disk0s1, try to mount it..
+ESP Mount Point is:/Volumes/EFI, using that as target Volume!
+==============================================================================
+BACKUP CHAMELEON FILES:
+No Extra folder was found, nothing to be saved.
+==============================================================================
+EXTRA FOLDER:
+Extra not found on /Volumes/EFI, creating..
+File Doesn't Exist, Will Create: /Volumes/BOOTRAMDISK/Extra/org.chameleon.Boot.plist
+==============================================================================
+First Check Passed (not Fat16)!
+Windows installation not found on /dev/disk0.
+/dev/disk0s1 is FAT32 formatted
+==============================================================================
+END - ESP Post-Install Script
+==============================================================================
+Writing kernel patcher option: KernelBooter_kexts=Yes
+File Doesn't Exist, Will Create: /Volumes/BOOTRAMDISK/Extra/kernel.plist
+------------------------------------------------------------------------------
+==============================================================================
+Writing kernel patcher option: KernelPm=Yes
+------------------------------------------------------------------------------
+==============================================================================
+Writing kernel patcher option: KernelLapicError=Yes
+------------------------------------------------------------------------------
+==============================================================================
+Writing kernel patcher option: KernelLapicVersion=Yes
+------------------------------------------------------------------------------
+==============================================================================
+Writing kernel patcher option: KernelHaswell=Yes
+------------------------------------------------------------------------------
+==============================================================================
+Writing kernel patcher option: KernelcpuFamily=Yes
+------------------------------------------------------------------------------
+==============================================================================
+Writing kernel patcher option: KernelSSE3=Yes
+------------------------------------------------------------------------------
+==============================================================================
+Writing boot option: HDAEnabler=Yes
+------------------------------------------------------------------------------
+==============================================================================
+Writing boot option: EnableHDMIAudio=Yes
+------------------------------------------------------------------------------
+==============================================================================
+Writing boot option: GUI=No
+------------------------------------------------------------------------------
+==============================================================================
+Writing boot option: EthernetBuiltIn=Yes
+------------------------------------------------------------------------------
+==============================================================================
+Writing boot option: UseKernelCache=Yes
+------------------------------------------------------------------------------
+==============================================================================
+Writing boot option: Kernel Flags=dart=0
+------------------------------------------------------------------------------
+==============================================================================
+Writing boot option: DropDMAR=Yes
+------------------------------------------------------------------------------
+==============================================================================
+Running Post postinstall script
+Target volume = /Volumes/EFI
+------------------------------------------------------------------------------
+Moving Extra folder to /Volumes/EFI
+------------------------------------------------------------------------------
+Post postinstall script complete
+==============================================================================
