@@ -261,7 +261,7 @@
 				<key>Comment</key>
 				<string>No Panic on MacPro4,1 - 5,1</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				cgoATWFjUHJvNCwxAE1hY1BybzUsMQBY
@@ -277,7 +277,7 @@
 				<key>Comment</key>
 				<string>(c)Pike R. Alpha GP</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				Ym9hcmQtaWQ=
@@ -293,7 +293,7 @@
 				<key>Comment</key>
 				<string>(c)Pike R. Alpha</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				Ym9hcmQtaWQ=
@@ -309,7 +309,7 @@
 				<key>Comment</key>
 				<string>Increase 15 port limit to 26 in AppleUSBXHCIPCI</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				g710////EA==
@@ -325,7 +325,7 @@
 				<key>Comment</key>
 				<string>IONVMeFamily Pike R. Alpha Patch#1</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				ibP4AgAAweAMBQAQAACJgw==
@@ -341,7 +341,7 @@
 				<key>Comment</key>
 				<string>IONVMeFamily Pike R. Alpha Patch#2</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				D7aMiIIAAACD+QwPhTIBAA==
@@ -357,7 +357,7 @@
 				<key>Comment</key>
 				<string>IONVMeFamily Pike R. Alpha Patch#3</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				AMeDpAAAAAAQAABIi0gISA==
@@ -373,7 +373,7 @@
 				<key>Comment</key>
 				<string>IONVMeFamily Pike R. Alpha Patch#4</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				SYnGTYX2dGFBwecMSWP/vg==
@@ -389,7 +389,7 @@
 				<key>Comment</key>
 				<string>IONVMeFamily Pike R. Alpha Patch#5</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				hv8PAABIwegMD7cPgeH/Dw==
@@ -405,7 +405,7 @@
 				<key>Comment</key>
 				<string>IONVMeFamily Pike R. Alpha Patch#6_7</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				icGB4f8PAABIAdFIgfn/DwAAdzs=
@@ -421,7 +421,7 @@
 				<key>Comment</key>
 				<string>IONVMeFamily Pike R. Alpha Patch#8</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				SYHF/w8AAEnB7QxJiwQkSA==
@@ -437,7 +437,7 @@
 				<key>Comment</key>
 				<string>IONVMeFamily Pike R. Alpha Patch#9_10</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				BgIAAEyNuAAQAABMiflIgeEA8P//SYmGGgEAAEmJjiIB
@@ -455,7 +455,7 @@
 				<key>Comment</key>
 				<string>IONVMeFamily Pike R. Alpha Patch#11</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				AABJiY4iAQAAugAQAABIKQ==
@@ -471,7 +471,7 @@
 				<key>Comment</key>
 				<string>IONVMeFamily Pike R. Alpha Patch#12</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				yAAAAEkp17gAEAAATYskJA==
@@ -487,7 +487,7 @@
 				<key>Comment</key>
 				<string>IONVMeFamily Pike R. Alpha Patch#13</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				4b+AQBUGTYnWugAQAABFMQ==
@@ -503,7 +503,7 @@
 				<key>Comment</key>
 				<string>IONVMeFamily Pike R. Alpha Patch#14</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				iWTY+EmBxAAQAABJgccA8A==
@@ -519,7 +519,7 @@
 				<key>Comment</key>
 				<string>IONVMeFamily Pike R. Alpha Patch#15</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				Bf8PAABIwegMZvfB/w8PlQ==
@@ -535,7 +535,7 @@
 				<key>Comment</key>
 				<string>IONVMeFamily Pike R. Alpha Patch#16</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				weIIQQ+2wcHgDEQJ0EQJwA==
@@ -551,7 +551,7 @@
 				<key>Comment</key>
 				<string>IONVMeFamily Pike R. Alpha Patch#17</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				RYTJD5XAD7bAweAMRAnYRA==
@@ -626,8 +626,6 @@
 		<key>InjectKexts</key>
 		<string>Yes</string>
 		<key>InjectSystemID</key>
-		<true/>
-		<key>NoCaches</key>
 		<true/>
 	</dict>
 </dict>
